@@ -1,3 +1,3 @@
-# webserver
+# node webserver
 # steps to create webserver
-## npm init (will create package.json
+## npm init (will create package.json)
