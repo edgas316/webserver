@@ -1,0 +1,24 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "Simple web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgas316/webserver.git"
+  },
+  "keywords": [
+    "node",
+    "webserver"
+  ],
+  "author": "Edwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgas316/webserver/issues"
+  },
+  "homepage": "https://github.com/edgas316/webserver#readme"
+}
